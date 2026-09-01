@@ -11,9 +11,10 @@ meeting real permissions, and autonomy meeting real hardware.
 - **[Wooblay](https://github.com/RealWooblay/WooblayAI)** - an execution firewall
   for AI agents, with policy gates, isolated credentials, human approval, and a
   tamper-evident audit trail.
-- **[Bubble Wars](https://github.com/RealWooblay/bubblewars)** - a collaborative
-  on-chain Telegram strategy game combining verified user identity, referrals,
-  randomised raids, indexed state, and a trusted AI runtime.
+- **[Bubble Wars](https://github.com/RealWooblay/bubblewars)** - a
+  hackathon-winning collaborative on-chain Telegram strategy game combining
+  verified user identity, referrals, randomised raids, indexed state, and a
+  trusted AI runtime.
 - **[Frontier Rover](https://github.com/RealWooblay/frontier-rover)** - a measured
   robotics apprenticeship focused on embedded Linux, sensing, control, safety,
   and reliable autonomous systems.
