@@ -15,6 +15,23 @@ meeting real permissions, and autonomy meeting real hardware.
   hackathon-winning collaborative on-chain Telegram strategy game combining
   verified user identity, referrals, randomised raids, indexed state, and a
   trusted AI runtime.
+- **[MERIDIAN](https://github.com/RealWooblay/medhack)** - a hackathon-winning,
+  privacy-first pharmacogenomics system with governed genome processing,
+  source-bound guidance, and constrained medical AI.
+- **[Golazo](https://github.com/RealWooblay/golazo)** - a real-time event-market
+  engine with a React Native client, AI-assisted feed watcher, tested
+  parimutuel core, and Solana settlement.
+- **[Bender](https://github.com/RealWooblay/bender)** - a Unity 6 multiplayer
+  prototype exploring dedicated game sessions, lobby matchmaking, and live
+  FishNet client handoff.
+- **AI NPC game stack** - a
+  [Unity simulation](https://github.com/RealWooblay/minitown-ai-game) driven by
+  an [agent service](https://github.com/RealWooblay/ai-npcs-cdp) that generates
+  evolving lore, structured world events, dialogue, and blockchain-aware NPC
+  actions.
+- **[Skill Tree](https://github.com/RealWooblay/skill-tree)** - an AI-assisted
+  learning planner that turns an open-ended goal into a visual prerequisite
+  graph with resources, quests, progress, and XP.
 - **[Frontier Rover](https://github.com/RealWooblay/frontier-rover)** - a measured
   robotics apprenticeship focused on embedded Linux, sensing, control, safety,
   and reliable autonomous systems.
