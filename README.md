@@ -27,9 +27,9 @@ meeting real permissions, and autonomy meeting real hardware.
 - **[Bender](https://github.com/RealWooblay/bender)** - a Unity 6 multiplayer
   prototype exploring dedicated game sessions, lobby matchmaking, and live
   FishNet client handoff.
-- **AI NPC game stack** - a
-  [Unity simulation](https://github.com/RealWooblay/minitown-ai-game) driven by
-  an [agent service](https://github.com/RealWooblay/ai-npcs-cdp) that generates
+- **[MiniTown AI NPC Game](https://github.com/RealWooblay/minitown-ai-game)** -
+  a Unity simulation driven by an
+  [AI agent backend](https://github.com/RealWooblay/ai-npcs-cdp) that generates
   evolving lore, structured world events, dialogue, and blockchain-aware NPC
   actions.
 - **[Skill Tree](https://github.com/RealWooblay/skill-tree)** - an AI-assisted
