@@ -38,6 +38,9 @@ meeting real permissions, and autonomy meeting real hardware.
 - **[Frontier Rover](https://github.com/RealWooblay/frontier-rover)** - a measured
   robotics apprenticeship focused on embedded Linux, sensing, control, safety,
   and reliable autonomous systems.
+- **[WISP](https://github.com/RealWooblay/hearth)** - an on-device spatial AI
+  concept using projection, vision, and interaction to bring an agent into
+  physical rooms.
 - **[Stables Yield Optimiser](https://github.com/RealWooblay/stables-yield-optimiser)**
   - real-time Solana yield intelligence with risk-adjusted strategy ranking,
   leverage simulation, and portfolio optimisation.
