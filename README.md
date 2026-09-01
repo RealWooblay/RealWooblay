@@ -1,4 +1,4 @@
-# Wooblay
+# Jack Coleman
 
 Software and AI systems engineer building products across backend,
 infrastructure, agent tooling, distributed systems, and physical systems.
